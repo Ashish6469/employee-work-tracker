@@ -1,2 +1,2 @@
-# employee-work-tracker
+# employee_work_tracker
 Daily work tracker 
